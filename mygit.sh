@@ -2,7 +2,7 @@
 
 git add .
 
-git commit -m "mygit"
+git commit -m "安装Ruby"
 git remote add origin git@github.com:GeoKylin/Step-By-Step-For-RubyOnRails.git
 
 git pull --rebase origin master
