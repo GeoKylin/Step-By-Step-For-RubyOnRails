@@ -1,4 +1,5 @@
-#!/usr/bin/ruby
+#!/usr/bin/ruby -w
+# coding: utf-8
 
 # 
 # Ruby 概述

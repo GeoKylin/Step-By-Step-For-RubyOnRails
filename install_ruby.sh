@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# 
+# 安装 Ruby：Linux、macOS 和 Windows
+# 
+
 # 检查 Ruby 版本
 ruby -v	#Linux、macOS 和 Windows
 
